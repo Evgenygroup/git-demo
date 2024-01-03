@@ -1,6 +1,6 @@
 # Intro to Git
 
-## English
+## English GermaN
 The project, which was created for implementation step-by-step guidelines for learning Git.
 
 Materials in English:
